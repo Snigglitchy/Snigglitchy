@@ -1,0 +1,86 @@
+{
+  "generated": "2026-09-09",
+  "window_days": 30,
+  "repos": {
+    "synapse": {
+      "repo": "synapse",
+      "commits": 0,
+      "weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stars": 0,
+      "url": "https://github.com/YOUR-GITHUB-USERNAME/synapse"
+    },
+    "counterglia": {
+      "repo": "counterglia",
+      "commits": 0,
+      "weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stars": 0,
+      "url": "https://github.com/YOUR-GITHUB-USERNAME/counterglia"
+    },
+    "cortex-garden": {
+      "repo": "cortex-garden",
+      "commits": 0,
+      "weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stars": 0,
+      "url": "https://github.com/YOUR-GITHUB-USERNAME/cortex-garden"
+    },
+    "brain-map": {
+      "repo": "brain-map",
+      "commits": 0,
+      "weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "stars": 0,
+      "url": "https://github.com/YOUR-GITHUB-USERNAME/brain-map"
+    }
+  }
+}
