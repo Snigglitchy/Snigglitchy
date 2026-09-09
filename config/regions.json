@@ -1,12 +1,12 @@
 {
   "owner": "Snigglitchy",
   "title": "Snigdha Sarthak",
-  "subtitle": "Glioblastoma research, and the tools I build after hours",
+  "subtitle": "Brain Tumor research, and the tools I build after hours",
   "window_days": 30,
   "regions": [
     {
       "id": "synapse",
-      "repo": "synapse",
+      "repo": "SYNAPSE",
       "label": "SYNAPSE",
       "blurb": "literature co-mention network",
       "anatomy": "tracts",
