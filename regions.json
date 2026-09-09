@@ -1,0 +1,44 @@
+{
+  "owner": "YOUR-GITHUB-USERNAME",
+  "title": "Snigdha Sarthak",
+  "subtitle": "Glioblastoma research, and the tools I build after hours",
+  "window_days": 30,
+  "regions": [
+    {
+      "id": "synapse",
+      "repo": "synapse",
+      "label": "SYNAPSE",
+      "blurb": "literature co-mention network",
+      "anatomy": "tracts",
+      "channel": "555",
+      "color": "#FFA94D"
+    },
+    {
+      "id": "counterglia",
+      "repo": "counterglia",
+      "label": "Counterglia",
+      "blurb": "where the literature disagrees",
+      "anatomy": "lesion",
+      "channel": "647",
+      "color": "#E85AAE"
+    },
+    {
+      "id": "cortex-garden",
+      "repo": "cortex-garden",
+      "label": "Cortex Garden",
+      "blurb": "what you've actually digested",
+      "anatomy": "cortex",
+      "channel": "488",
+      "color": "#3DDC84"
+    },
+    {
+      "id": "brain-map",
+      "repo": "brain-map",
+      "label": "Brain map",
+      "blurb": "cell-state manifold",
+      "anatomy": "svz",
+      "channel": "405",
+      "color": "#6C8CFF"
+    }
+  ]
+}
