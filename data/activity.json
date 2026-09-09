@@ -43,8 +43,8 @@
       "url": "https://github.com/Snigglitchy/counterglia"
     },
     "cortex-garden": {
-      "repo": "cortex-garden",
-      "commits": 0,
+      "repo": "cortexgarden",
+      "commits": 3,
       "weeks": [
         0,
         0,
@@ -57,10 +57,10 @@
         0,
         0,
         0,
-        0
+        3
       ],
       "stars": 0,
-      "url": "https://github.com/Snigglitchy/cortex-garden"
+      "url": "https://github.com/Snigglitchy/cortexgarden"
     },
     "brain-map": {
       "repo": "brain-map",
