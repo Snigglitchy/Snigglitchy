@@ -4,7 +4,7 @@
   "repos": {
     "synapse": {
       "repo": "synapse",
-      "commits": 0,
+      "commits": 13,
       "weeks": [
         0,
         0,
@@ -12,15 +12,15 @@
         0,
         0,
         0,
-        0,
-        0,
+        14,
+        15,
         0,
         0,
         0,
         0
       ],
       "stars": 0,
-      "url": "https://github.com/YOUR-GITHUB-USERNAME/synapse"
+      "url": "https://github.com/Snigglitchy/SYNAPSE"
     },
     "counterglia": {
       "repo": "counterglia",
@@ -40,7 +40,7 @@
         0
       ],
       "stars": 0,
-      "url": "https://github.com/YOUR-GITHUB-USERNAME/counterglia"
+      "url": "https://github.com/Snigglitchy/counterglia"
     },
     "cortex-garden": {
       "repo": "cortex-garden",
@@ -60,7 +60,7 @@
         0
       ],
       "stars": 0,
-      "url": "https://github.com/YOUR-GITHUB-USERNAME/cortex-garden"
+      "url": "https://github.com/Snigglitchy/cortex-garden"
     },
     "brain-map": {
       "repo": "brain-map",
@@ -80,7 +80,7 @@
         0
       ],
       "stars": 0,
-      "url": "https://github.com/YOUR-GITHUB-USERNAME/brain-map"
+      "url": "https://github.com/Snigglitchy/brain-map"
     }
   }
 }
