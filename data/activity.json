@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03",
+  "generated": "2026-10-04",
   "window_days": 30,
   "repos": {
     "synapse": {
@@ -8,8 +8,8 @@
       "weeks": [
         0,
         0,
-        0,
-        16,
+        14,
+        2,
         13,
         0,
         0,
