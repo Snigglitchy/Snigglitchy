@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20",
+  "generated": "2026-10-21",
   "window_days": 30,
   "repos": {
     "synapse": {
@@ -7,8 +7,8 @@
       "commits": 0,
       "weeks": [
         14,
-        2,
-        13,
+        15,
+        0,
         0,
         0,
         0,
