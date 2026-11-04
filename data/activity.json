@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-03",
+  "generated": "2026-11-04",
   "window_days": 30,
   "repos": {
     "synapse": {
       "repo": "SYNAPSE",
       "commits": 0,
       "weeks": [
-        13,
+        0,
         0,
         0,
         0,
